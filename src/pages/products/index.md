@@ -97,7 +97,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
-    - plan: Test
-      price: '123214'
 ---
 
