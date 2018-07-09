@@ -47,7 +47,7 @@ collections:
   - name: "data"
     label: "Data"
     files:
-      - file: "src/data/index.md"
+      - file: "src/pages/data/index.yml"
         label: "Sæsonkortsalg"
         name: "seasonticketsales"
         fields:
@@ -65,4 +65,4 @@ collections:
           - {label: "Randers FC", name: "rfc", widget: "number", valueType: "int"}
           - {label: "SønderjyskE", name: "sje", widget: "number", valueType: "int"}
           - {label: "Vejle BK", name: "vbk", widget: "number", valueType: "int"}
-          - {label: "Vendsyssel FF", name: "vff", widget: "number", valueType: "int"}          
+          - {label: "Vendsyssel FF", name: "vff", widget: "number", valueType: "int"}
