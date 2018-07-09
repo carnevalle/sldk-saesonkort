@@ -1,7 +1,7 @@
 bif: 9000
-fck: .nan
+fck: 0
 fcm: 5000
-fcn: 1
+fcn: .nan
 ach: -24
 agf: 1400
 aab: 2200
